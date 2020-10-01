@@ -1,2 +1,3 @@
 # Movie-Recommendation-Engine
-Recommender System for Movies using Python
+Recommender System for Movies using Python.
+this is an example of content based recomendation system....there are various types of recomendation system...
